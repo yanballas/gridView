@@ -1,0 +1,14 @@
+* html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 10px;
+  background-color: white;
+}
+
+.headling {
+  color: darkgreen;
+  text-align: center;
+  font-size: 3.2rem;
+}
